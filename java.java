@@ -1,4 +1,3 @@
 function roll() {
   
-  document.getElementById("rick").style.visibility = "visible";
-}
+  document.getElementById("rick").style.visibility = "visible";}
